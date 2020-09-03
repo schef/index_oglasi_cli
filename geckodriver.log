@@ -437,3 +437,72 @@ JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2
 JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
 JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
 JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1599150955253	Marionette	ERROR	[15] No reply from Marionette:Register
+1599150955468	Marionette	INFO	Stopped listening on port 38029
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599150969292	Marionette	INFO	Listening on port 36863
+1599150969301	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599151525731	Marionette	INFO	Listening on port 35171
+1599151525781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599153089238	Marionette	INFO	Listening on port 33013
+1599153089353	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.ampproject.org/rtv/032009010507000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/032009010507000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/032009010507000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1599153984149	Marionette	ERROR	[15] No reply from Marionette:Register
+1599153984275	Marionette	INFO	Stopped listening on port 33013
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599155827913	Marionette	INFO	Listening on port 41905
+1599155827924	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599155842834	Marionette	INFO	Listening on port 38617
+1599155842896	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

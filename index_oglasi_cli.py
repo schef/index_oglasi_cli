@@ -84,7 +84,7 @@ class CarAd():
 
 
 def save_cars(cars, filename):
-    pickle.dump(cars, open(filename))
+    pickle.dump(cars, open(filename, "wb"))
 
 
 def load_cars(filename):
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     opts = Options()
     opts.headless = True
     driver = webdriver.Firefox()
-    site = getSite(elementsNum=100, priceFrom=100, priceTo=200)
+    site = getSite(elementsNum=100, priceFrom=301, priceTo=400)
     driver.get(site)
     cars = []
 
@@ -125,4 +125,4 @@ if __name__ == "__main__":
     for car in cars:
         print(car)
 
-    pickle.dump(cars, open("cars_100_200.p", "wb"))
+    save_cars(cars, "cars_301_400.p")
