@@ -140,6 +140,9 @@ def getCars(driver, cars):
 
     cars.sort(key=operator.attrgetter('price_num'))
 
+def words_in_string(word_list, a_string):
+    return set(word_list).intersection(a_string.split())
+
 if __name__ == "__main__":
     # driver = getDriver()
     cars = []
@@ -152,3 +155,23 @@ if __name__ == "__main__":
     # cars.extend(load_cars("cars_601_700.p"))
     cars.extend(load_cars("cars_100_700.p"))
     # save_cars(cars,"houses_50001_60000.p" )
+
+    # clean_cars = []
+
+    # ignore_words = ["disel", "diesel", "audi", "bmw", "mercedes"]
+    # for car in cars:
+    #     if "2021" in car.registriran_do:
+    #         if not words_in_string(ignore_words, car.ad_title.lower()):
+    #             if not words_in_string(ignore_words, car.ad_oglas_description.lower()):
+    #                 clean_cars.append(car)
+    
+    # driver = getDriver()
+    # for car in clean_cars:
+    #     driver.get(car.ad_link)
+    #     car.extra_info = driver.find_element_by_xpath("/html/body/div[5]").text
+
+    # new_clean_cars = []
+
+    # for car in clean_cars:
+    #     if not words_in_string(ignore_words, car.extra_info.lower()):
+    #         new_clean_cars.append(car)
