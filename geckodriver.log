@@ -506,3 +506,681 @@ Exiting due to channel error.
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 Exiting due to channel error.
 Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599161141218	Marionette	INFO	Listening on port 40769
+1599161141296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599163061018	Marionette	INFO	Listening on port 40629
+1599163061120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599163087590	Marionette	INFO	Listening on port 41681
+1599163087675	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599163197416	Marionette	INFO	Listening on port 34483
+1599163197471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599163945321	Marionette	INFO	Stopped listening on port 34483
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599163949360	Marionette	INFO	Listening on port 35337
+1599163949420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/022008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599167992838	Marionette	INFO	Listening on port 37521
+1599167992907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599169626056	Marionette	INFO	Listening on port 46377
+1599169626076	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599171646426	Marionette	INFO	Stopped listening on port 46377
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599204340595	Marionette	INFO	Listening on port 43587
+1599204340681	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599208057649	Marionette	INFO	Listening on port 33133
+1599208057655	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource:///modules/sessionstore/ContentSessionStore.jsm, line 476: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599210843862	Marionette	INFO	Listening on port 42827
+1599210843897	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599211334310	Marionette	INFO	Listening on port 38017
+1599211334384	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

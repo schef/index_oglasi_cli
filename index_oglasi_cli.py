@@ -27,6 +27,13 @@ XPATH_CAR_REGISTRATION = "/html/body/div[5]/div/div/div[1]/ul/li[1]/div[2]/div[@
 XPATH_CAR_DESCRIPTION = "/html/body/div[5]/div/div/div[1]/ul/li[1]/div[2]/div[@class=\"oglas_description\"]"
 
 
+def getDriver():
+    opts = Options()
+    opts.headless = True
+    driver = webdriver.Firefox()
+    return driver
+
+
 def getSite(elementsNum=10, priceFrom=None, priceTo=None, location=None):
     site = SEARCH_SITE
     if elementsNum or priceFrom or priceTo or location:
@@ -88,41 +95,48 @@ def save_cars(cars, filename):
 
 
 def load_cars(filename):
-    pickle.load(open(filename, "rb"))
+    return pickle.load(open(filename, "rb"))
 
 
-if __name__ == "__main__":
-    opts = Options()
-    opts.headless = True
-    driver = webdriver.Firefox()
-    site = getSite(elementsNum=100, priceFrom=301, priceTo=400)
-    driver.get(site)
+def getCarsFromSite(driver, totalCars):
     cars = []
-
-    totalCars = getAdNum(driver)
-
-    # first site
     adHolders = driver.find_elements_by_xpath(XPATH_AD_HOLDER)
     for ad in adHolders:
         cars.append(CarAd(ad))
         print("ADD:", str(len(cars)) + "/" + str(totalCars))
+    return cars
 
-    # all other sites
-    while(goToNextSite(driver)):
-        adHolders = driver.find_elements_by_xpath(XPATH_AD_HOLDER)
-        for ad in adHolders:
-            cars.append(CarAd(ad))
-            print("ADD:", str(len(cars)) + "/" + str(totalCars))
 
-    cars.sort(key=operator.attrgetter('price_num'))
-
+def addDetailsToCars(driver, cars, totalCars):
     for e, car in enumerate(cars):
         print("ADD DETAIL:", str(e) + "/" + str(totalCars))
         if (car.ad_oglas_description == ""):
             driver.get(car.ad_link)
             car.addDetails(driver)
 
-    for car in cars:
-        print(car)
+def getCars(driver, cars):
+    # init
+    driver.get(getSite(elementsNum=100, priceFrom=501, priceTo=600))
 
-    save_cars(cars, "cars_301_400.p")
+    totalCars = getAdNum(driver)
+
+    cars.extend(getCarsFromSite(driver, totalCars))
+    while(goToNextSite(driver)):
+        cars.extend(getCarsFromSite(driver, totalCars))
+
+    addDetailsToCars(driver, cars, totalCars)
+
+    cars.sort(key=operator.attrgetter('price_num'))
+
+if __name__ == "__main__":
+    # driver = getDriver()
+    cars = []
+    # getCars(driver, cars)
+    # cars.extend(load_cars("cars_100_200.p"))
+    # cars.extend(load_cars("cars_201_300.p"))
+    # cars.extend(load_cars("cars_301_400.p"))
+    # cars.extend(load_cars("cars_401_500.p"))
+    # cars.extend(load_cars("cars_501_600.p"))
+    # cars.extend(load_cars("cars_601_700.p"))
+    # save_cars(cars,"cars_100_700.p" )
+    cars.extend(load_cars("cars_100_700.p"))
