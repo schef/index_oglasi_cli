@@ -6,7 +6,8 @@ from selenium.webdriver.firefox.options import Options
 import operator
 import pickle
 
-SEARCH_SITE = "https://www.index.hr/oglasi/osobni-automobili/gid/27"
+SEARCH_SITE_CAR = "https://www.index.hr/oglasi/osobni-automobili/gid/27"
+SEARCH_SITE_HOUSE = "https://www.index.hr/oglasi/prodaja-kuca/gid/3276"
 SEARCH_ADD_ELEMENTS_NUM = "elementsNum"
 SEARCH_ADD_PRICE_FROM = "cijenaod"
 SEARCH_ADD_PRICE_TO = "cijenado"
@@ -34,8 +35,7 @@ def getDriver():
     return driver
 
 
-def getSite(elementsNum=10, priceFrom=None, priceTo=None, location=None):
-    site = SEARCH_SITE
+def getSite(site, elementsNum=10, priceFrom=None, priceTo=None, location=None):
     if elementsNum or priceFrom or priceTo or location:
         site += "?"
         if (elementsNum):
@@ -66,22 +66,32 @@ def goToNextSite(driver):
     except:
         return False
 
-
-class CarAd():
+class GenericAd():
     def __init__(self, adHolder):
         self.ad_title = adHolder.find_element_by_xpath(XPATH_AD_TITLE).text
         self.ad_location = adHolder.find_element_by_xpath(XPATH_AD_LOCATION).text
         self.ad_price = adHolder.find_element_by_xpath(XPATH_AD_PRICE).text
         self.ad_link = adHolder.find_element_by_xpath(XPATH_AD_LINK).get_attribute("href")
         self.price_num = float(self.ad_price.replace("€", "").replace(".", "").replace(",", "."))
-        self.registriran_do = ""
         self.ad_oglas_description = ""
 
     def __repr__(self):
-        return ("%s %s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^7s}'.format(self.registriran_do), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
+        return ("%s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
 
     def addDetails(self, adHolder):
         self.ad_oglas_description = adHolder.find_element_by_xpath(XPATH_CAR_DESCRIPTION).text
+
+class CarAd(GenericAd):
+    def __init__(self, adHolder):
+        super.__init__(adHolder)
+        self.registriran_do = ""
+
+    def __repr__(self):
+        # return ("%s %s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^7s}'.format(self.registriran_do), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
+        return ("%s %s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^7s}'.format(self.registriran_do), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
+
+    def addDetails(self, adHolder):
+        super().addDetails(adHolder)
         self.ad_registriran_do = adHolder.find_element_by_xpath(XPATH_CAR_REGISTRATION).text
         registriran_do = self.ad_registriran_do.split('\n')
         self.registriran_do = ""
@@ -89,6 +99,8 @@ class CarAd():
             if ("Registriran do" in s):
                 self.registriran_do = s.split(" ")[2]
 
+class HouseAd(GenericAd):
+    pass
 
 def save_cars(cars, filename):
     pickle.dump(cars, open(filename, "wb"))
@@ -116,7 +128,7 @@ def addDetailsToCars(driver, cars, totalCars):
 
 def getCars(driver, cars):
     # init
-    driver.get(getSite(elementsNum=100, priceFrom=501, priceTo=600))
+    driver.get(getSite(SEARCH_SITE_CAR, elementsNum=100, priceFrom=530, priceTo=540))
 
     totalCars = getAdNum(driver)
 
@@ -138,5 +150,5 @@ if __name__ == "__main__":
     # cars.extend(load_cars("cars_401_500.p"))
     # cars.extend(load_cars("cars_501_600.p"))
     # cars.extend(load_cars("cars_601_700.p"))
-    # save_cars(cars,"cars_100_700.p" )
     cars.extend(load_cars("cars_100_700.p"))
+    # save_cars(cars,"houses_50001_60000.p" )
