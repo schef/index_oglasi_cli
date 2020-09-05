@@ -27,7 +27,6 @@ XPATH_AD_LINK = "./a"
 XPATH_CAR_REGISTRATION = "/html/body/div[5]/div/div/div[1]/ul/li[1]/div[2]/div[@class=\"features_list oglasHolder_1\"]"
 XPATH_CAR_DESCRIPTION = "/html/body/div[5]/div/div/div[1]/ul/li[1]/div[2]/div[@class=\"oglas_description\"]"
 
-
 def getDriver():
     opts = Options()
     opts.headless = True
@@ -66,11 +65,21 @@ def goToNextSite(driver):
     except:
         return False
 
+
 class GenericAd():
     def __init__(self, adHolder):
-        self.ad_title = adHolder.find_element_by_xpath(XPATH_AD_TITLE).text
-        self.ad_location = adHolder.find_element_by_xpath(XPATH_AD_LOCATION).text
-        self.ad_price = adHolder.find_element_by_xpath(XPATH_AD_PRICE).text
+        try:
+            self.ad_title = adHolder.find_element_by_xpath(XPATH_AD_TITLE).text
+        except:
+            self.ad_title = "NOT FOUND"
+        try:
+            self.ad_location = adHolder.find_element_by_xpath(XPATH_AD_LOCATION).text
+        except:
+            self.ad_location = "NOT FOUND"
+        try:
+            self.ad_price = adHolder.find_element_by_xpath(XPATH_AD_PRICE).text
+        except:
+            self.ad_price = "0"
         self.ad_link = adHolder.find_element_by_xpath(XPATH_AD_LINK).get_attribute("href")
         self.price_num = float(self.ad_price.replace("€", "").replace(".", "").replace(",", "."))
         self.ad_oglas_description = ""
@@ -79,11 +88,15 @@ class GenericAd():
         return ("%s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
 
     def addDetails(self, adHolder):
-        self.ad_oglas_description = adHolder.find_element_by_xpath(XPATH_CAR_DESCRIPTION).text
+        try:
+            self.ad_oglas_description = adHolder.find_element_by_xpath(XPATH_CAR_DESCRIPTION).text
+        except:
+            self.ad_oglas_description = "NOT FOUND"
+
 
 class CarAd(GenericAd):
     def __init__(self, adHolder):
-        super.__init__(adHolder)
+        GenericAd.__init__(self, adHolder)
         self.registriran_do = ""
 
     def __repr__(self):
@@ -91,7 +104,7 @@ class CarAd(GenericAd):
         return ("%s %s %s %s %s" % ('{:.^10s}'.format(self.ad_price), '{:.^7s}'.format(self.registriran_do), '{:.^40.40s}'.format(self.ad_title), '{:.^10.10s}'.format(self.ad_location), self.ad_link))
 
     def addDetails(self, adHolder):
-        super().addDetails(adHolder)
+        GenericAd.addDetails(self, addHolder)
         self.ad_registriran_do = adHolder.find_element_by_xpath(XPATH_CAR_REGISTRATION).text
         registriran_do = self.ad_registriran_do.split('\n')
         self.registriran_do = ""
@@ -99,79 +112,68 @@ class CarAd(GenericAd):
             if ("Registriran do" in s):
                 self.registriran_do = s.split(" ")[2]
 
+
 class HouseAd(GenericAd):
     pass
 
-def save_cars(cars, filename):
+
+def saveAds(cars, filename):
     pickle.dump(cars, open(filename, "wb"))
 
 
-def load_cars(filename):
+def loadAds(filename):
     return pickle.load(open(filename, "rb"))
 
 
-def getCarsFromSite(driver, totalCars):
-    cars = []
+def getAdFromSite(driver, ads, classAd, totalAds):
     adHolders = driver.find_elements_by_xpath(XPATH_AD_HOLDER)
     for ad in adHolders:
-        cars.append(CarAd(ad))
-        print("ADD:", str(len(cars)) + "/" + str(totalCars))
-    return cars
+        ads.append(classAd(ad))
+        print("ADD:", str(len(ads)) + "/" + str(totalAds))
 
 
-def addDetailsToCars(driver, cars, totalCars):
+def addDetailsToAd(driver, cars, totalAds):
     for e, car in enumerate(cars):
-        print("ADD DETAIL:", str(e) + "/" + str(totalCars))
+        print("ADD DETAIL:", str(e) + "/" + str(totalAds))
         if (car.ad_oglas_description == ""):
             driver.get(car.ad_link)
             car.addDetails(driver)
+            if e % 100 == 0:
+                driver.close()
+                driver = getDriver()
 
-def getCars(driver, cars):
-    # init
-    driver.get(getSite(SEARCH_SITE_CAR, elementsNum=100, priceFrom=530, priceTo=540))
 
-    totalCars = getAdNum(driver)
+def getAds(driver, ads, site, classAd, elementsNum=10, priceFrom="", priceTo=""):
 
-    cars.extend(getCarsFromSite(driver, totalCars))
+    driver.get(getSite(site, elementsNum=100, priceFrom=priceFrom, priceTo=priceTo))
+    totalAds = getAdNum(driver)
+    getAdFromSite(driver, ads, classAd, totalAds)
     while(goToNextSite(driver)):
-        cars.extend(getCarsFromSite(driver, totalCars))
+        getAdFromSite(driver, ads, classAd, totalAds)
+    addDetailsToAd(driver, ads, totalAds)
+    ads.sort(key=operator.attrgetter('price_num'))
 
-    addDetailsToCars(driver, cars, totalCars)
 
-    cars.sort(key=operator.attrgetter('price_num'))
-
-def words_in_string(word_list, a_string):
+def wordsInString(word_list, a_string):
     return set(word_list).intersection(a_string.split())
+
 
 if __name__ == "__main__":
     # driver = getDriver()
-    cars = []
-    # getCars(driver, cars)
-    # cars.extend(load_cars("cars_100_200.p"))
-    # cars.extend(load_cars("cars_201_300.p"))
-    # cars.extend(load_cars("cars_301_400.p"))
-    # cars.extend(load_cars("cars_401_500.p"))
-    # cars.extend(load_cars("cars_501_600.p"))
-    # cars.extend(load_cars("cars_601_700.p"))
-    cars.extend(load_cars("cars_100_700.p"))
-    # save_cars(cars,"houses_50001_60000.p" )
+    # cars = []
+    # getAds(driver, cars, SEARCH_SITE_CAR, CarAd, 10, 510, 520)
 
-    # clean_cars = []
+    houses = []
+    # getAds(driver, houses, SEARCH_SITE_HOUSE, HouseAd, 100, 0, 75000)
 
-    # ignore_words = ["disel", "diesel", "audi", "bmw", "mercedes"]
-    # for car in cars:
-    #     if "2021" in car.registriran_do:
-    #         if not words_in_string(ignore_words, car.ad_title.lower()):
-    #             if not words_in_string(ignore_words, car.ad_oglas_description.lower()):
-    #                 clean_cars.append(car)
-    
-    # driver = getDriver()
-    # for car in clean_cars:
-    #     driver.get(car.ad_link)
-    #     car.extra_info = driver.find_element_by_xpath("/html/body/div[5]").text
+    # cars.extend(loadAds("cars_100_200.p"))
+    # cars.extend(loadAds("cars_201_300.p"))
+    # cars.extend(loadAds("cars_301_400.p"))
+    # cars.extend(loadAds("cars_401_500.p"))
+    # cars.extend(loadAds("cars_501_600.p"))
+    # cars.extend(loadAds("cars_601_700.p"))
+    # cars.extend(loadAds("cars_100_700.p"))
+    # saveAds(cars,"houses_50001_60000.p" )
 
-    # new_clean_cars = []
-
-    # for car in clean_cars:
-    #     if not words_in_string(ignore_words, car.extra_info.lower()):
-    #         new_clean_cars.append(car)
+    houses = loadAds("houses_0_75000.p")
+    # addDetailsToAd(driver, houses, 0)
