@@ -6352,3 +6352,1570 @@ Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599284324717	Marionette	INFO	Listening on port 45255
+1599284324802	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599284332740	Marionette	INFO	Listening on port 40275
+1599284332785	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285113067	Marionette	INFO	Listening on port 44291
+1599285113132	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285156399	Marionette	INFO	Listening on port 39681
+1599285156415	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285179663	Marionette	INFO	Listening on port 38715
+1599285179754	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285255518	Marionette	INFO	Listening on port 37695
+1599285255579	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599285271925	Marionette	INFO	Stopped listening on port 37695
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285276783	Marionette	INFO	Listening on port 43855
+1599285276856	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285453964	Marionette	INFO	Listening on port 43093
+1599285453991	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599285465090	Marionette	INFO	Stopped listening on port 43093
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599285470110	Marionette	INFO	Listening on port 39849
+1599285470132	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599286855720	Marionette	INFO	Listening on port 46811
+1599286855831	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599286871737	Marionette	INFO	Stopped listening on port 46811
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599286876770	Marionette	INFO	Listening on port 33405
+1599286876780	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287095212	Marionette	INFO	Listening on port 46101
+1599287095248	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599287110663	Marionette	INFO	Stopped listening on port 46101
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287115806	Marionette	INFO	Listening on port 42705
+1599287115899	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_905377&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=20269&src.LineItem=6693831&src.campaignID=2135058, line 1: URIError: malformed URI sequence
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_388129&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=[%random%]&src.campaignID=[%tp_CampaignID%]&src.placementID=[%tp_PlacementID%], line 1: URIError: malformed URI sequence
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287220070	Marionette	INFO	Listening on port 44065
+1599287220108	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287288223	Marionette	INFO	Listening on port 46087
+1599287288239	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287362403	Marionette	INFO	Listening on port 42577
+1599287362419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599287381148	Marionette	INFO	Stopped listening on port 42577
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287386121	Marionette	INFO	Listening on port 41033
+1599287386221	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287472652	Marionette	INFO	Listening on port 36773
+1599287472719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Sandbox: Unexpected EOF, op 0 flags 02400302 path /dev/shm/org.mozilla.ipc.36663.2587
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287608938	Marionette	INFO	Listening on port 34055
+1599287608973	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287813283	Marionette	INFO	Listening on port 41697
+1599287813335	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287978329	Marionette	INFO	Listening on port 39521
+1599287978425	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599287994391	Marionette	INFO	Stopped listening on port 39521
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599287999421	Marionette	INFO	Listening on port 35217
+1599287999444	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599288171145	Marionette	INFO	Listening on port 33305
+1599288171163	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1300903406515623436/index.html#t=8892295485940043018&p=https%3A%2F%2F9f053e00740aeb2a27c790363a61e599.safeframe.googlesyndication.com, line 160: TypeError: studio.Enabler is undefined
+1599289509053	Marionette	INFO	Stopped listening on port 33305
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599289515123	Marionette	INFO	Listening on port 43599
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1599289515215	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1227:3
+
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599289564254	Marionette	INFO	Listening on port 37175
+1599289564308	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599289654801	Marionette	INFO	Listening on port 36995
+1599289654848	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599289784698	Marionette	INFO	Stopped listening on port 36995
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599289789722	Marionette	INFO	Listening on port 46325
+1599289789782	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_905377&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=57863&src.LineItem=6693831&src.campaignID=2135058, line 1: URIError: malformed URI sequence
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_388129&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=[%random%]&src.campaignID=[%tp_CampaignID%]&src.placementID=[%tp_PlacementID%], line 1: URIError: malformed URI sequence
+JavaScript error: , line 0: uncaught exception: undefined
+1599289941281	Marionette	INFO	Stopped listening on port 46325
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599289946199	Marionette	INFO	Listening on port 43247
+1599289946275	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_905377&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=255&src.LineItem=6693831&src.campaignID=2135058, line 1: URIError: malformed URI sequence
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_388129&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=[%random%]&src.campaignID=[%tp_CampaignID%]&src.placementID=[%tp_PlacementID%], line 1: URIError: malformed URI sequence
+1599290095512	Marionette	INFO	Stopped listening on port 43247
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290100421	Marionette	INFO	Listening on port 33767
+1599290100481	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599290228883	Marionette	INFO	Stopped listening on port 33767
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290233825	Marionette	INFO	Listening on port 38255
+1599290233857	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_905377&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=76342&src.LineItem=6693831&src.campaignID=2135058, line 1: URIError: malformed URI sequence
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_388129&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=[%random%]&src.campaignID=[%tp_CampaignID%]&src.placementID=[%tp_PlacementID%], line 1: URIError: malformed URI sequence
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599290413163	Marionette	INFO	Stopped listening on port 38255
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290416236	Marionette	INFO	Listening on port 33931
+1599290416258	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599290582990	Marionette	INFO	Stopped listening on port 33931
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290587982	Marionette	INFO	Listening on port 32957
+1599290588014	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599290776485	Marionette	INFO	Stopped listening on port 32957
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290781513	Marionette	INFO	Listening on port 46059
+1599290781523	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599290920327	Marionette	INFO	Stopped listening on port 46059
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599290923462	Marionette	INFO	Listening on port 46279
+1599290923519	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599291102611	Marionette	INFO	Stopped listening on port 46279
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291105612	Marionette	INFO	Listening on port 33913
+1599291105701	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599291258465	Marionette	INFO	Stopped listening on port 33913
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291263363	Marionette	INFO	Listening on port 43097
+1599291263428	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599291417029	Marionette	INFO	Stopped listening on port 43097
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291422465	Marionette	INFO	Listening on port 45113
+1599291422523	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599291616366	Marionette	INFO	Stopped listening on port 45113
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291619452	Marionette	INFO	Listening on port 40641
+1599291619568	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599291785411	Marionette	INFO	Stopped listening on port 40641
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291790342	Marionette	INFO	Listening on port 43657
+1599291790394	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599291996978	Marionette	INFO	Stopped listening on port 43657
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599291999938	Marionette	INFO	Listening on port 41001
+1599291999948	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_905377&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=30332&src.LineItem=6693831&src.campaignID=2135058, line 1: URIError: malformed URI sequence
+JavaScript error: https://cdn.mookie1.com/containr.js?tagid=V2_388129&tagType=imp&host=hr-gmtdmp.mookie1.com&src.rand=[%random%]&src.campaignID=[%tp_CampaignID%]&src.placementID=[%tp_PlacementID%], line 1: URIError: malformed URI sequence
+1599309331034	Marionette	INFO	Stopped listening on port 41001
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599309337879	Marionette	INFO	Listening on port 43683
+1599309337984	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599310651026	Marionette	INFO	Stopped listening on port 43683
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599310654939	Marionette	INFO	Listening on port 34001
+1599310654952	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599310814885	Marionette	INFO	Stopped listening on port 34001
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599310819743	Marionette	INFO	Listening on port 39475
+1599310819752	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599310947940	Marionette	INFO	Stopped listening on port 39475
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599310951027	Marionette	INFO	Listening on port 44969
+1599310951128	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599311094257	Marionette	INFO	Stopped listening on port 44969
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599311099176	Marionette	INFO	Listening on port 33165
+1599311099262	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599311972362	Marionette	INFO	Stopped listening on port 33165
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312284684	Marionette	INFO	Listening on port 42725
+1599312284766	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312429169	Marionette	INFO	Listening on port 34961
+1599312429177	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1599312562830	Marionette	INFO	Stopped listening on port 34961
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312567845	Marionette	INFO	Listening on port 39197
+1599312567957	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.mjs, line 4: NS_ERROR_NOT_INITIALIZED: 
+1599312693667	Marionette	INFO	Stopped listening on port 39197
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312698128	Marionette	INFO	Listening on port 40085
+1599312698147	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599312836321	Marionette	INFO	Stopped listening on port 40085
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312841311	Marionette	INFO	Listening on port 43003
+1599312841425	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599312964934	Marionette	INFO	Stopped listening on port 43003
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599312969077	Marionette	INFO	Listening on port 39907
+1599312969112	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1599313162081	Marionette	INFO	Stopped listening on port 39907
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599313167156	Marionette	INFO	Listening on port 45265
+1599313167213	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599313320060	Marionette	INFO	Stopped listening on port 45265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599313325136	Marionette	INFO	Listening on port 41725
+1599313325156	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599313466747	Marionette	INFO	Stopped listening on port 41725
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599313471851	Marionette	INFO	Listening on port 33073
+1599313471975	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+1599313645876	Marionette	INFO	Stopped listening on port 33073
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599313648904	Marionette	INFO	Listening on port 35587
+1599313648958	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599313790448	Marionette	INFO	Stopped listening on port 35587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599313795362	Marionette	INFO	Listening on port 40955
+1599313795431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+1599314000126	Marionette	INFO	Stopped listening on port 40955
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314004629	Marionette	INFO	Listening on port 43537
+1599314004702	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599314134617	Marionette	INFO	Stopped listening on port 43537
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314139723	Marionette	INFO	Listening on port 40697
+1599314139732	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599314268539	Marionette	INFO	Stopped listening on port 40697
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314273243	Marionette	INFO	Listening on port 38885
+1599314273331	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599314412619	Marionette	INFO	Stopped listening on port 38885
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314417675	Marionette	INFO	Listening on port 33217
+1599314417741	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599314574028	Marionette	INFO	Stopped listening on port 33217
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314578965	Marionette	INFO	Listening on port 44587
+1599314579040	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599314704916	Marionette	INFO	Stopped listening on port 44587
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314708092	Marionette	INFO	Listening on port 39469
+1599314708192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599314836097	Marionette	INFO	Stopped listening on port 39469
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599314841000	Marionette	INFO	Listening on port 41257
+1599314841097	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599315034278	Marionette	INFO	Stopped listening on port 41257
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315039232	Marionette	INFO	Listening on port 36819
+1599315039302	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599315176509	Marionette	INFO	Stopped listening on port 36819
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315179625	Marionette	INFO	Listening on port 35661
+1599315179698	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599315343678	Marionette	INFO	Stopped listening on port 35661
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315347179	Marionette	INFO	Listening on port 33967
+1599315347248	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599315525248	Marionette	INFO	Stopped listening on port 33967
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315528394	Marionette	INFO	Listening on port 36641
+1599315528420	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+1599315710581	Marionette	INFO	Stopped listening on port 36641
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315713654	Marionette	INFO	Listening on port 38083
+1599315713667	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599315895312	Marionette	INFO	Stopped listening on port 38083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599315900296	Marionette	INFO	Listening on port 45081
+1599315900408	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599316080994	Marionette	INFO	Stopped listening on port 45081
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316083866	Marionette	INFO	Listening on port 37707
+1599316083952	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599316127930	Marionette	INFO	Stopped listening on port 37707
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316131448	Marionette	INFO	Listening on port 41901
+1599316131475	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599316258589	Marionette	INFO	Stopped listening on port 41901
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316263483	Marionette	INFO	Listening on port 35149
+1599316263579	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599316456883	Marionette	INFO	Stopped listening on port 35149
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316461864	Marionette	INFO	Listening on port 45281
+1599316461873	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599316592319	Marionette	INFO	Stopped listening on port 45281
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316597260	Marionette	INFO	Listening on port 40957
+1599316597289	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599316724987	Marionette	INFO	Stopped listening on port 40957
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316727998	Marionette	INFO	Listening on port 36619
+1599316728082	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599316931635	Marionette	INFO	Stopped listening on port 36619
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599316936606	Marionette	INFO	Listening on port 34715
+1599316936638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: uncaught exception: 7
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599317055839	Marionette	INFO	Stopped listening on port 34715
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317060890	Marionette	INFO	Listening on port 46133
+1599317060916	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599317275351	Marionette	INFO	Stopped listening on port 46133
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317280362	Marionette	INFO	Listening on port 38503
+1599317280428	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+1599317476836	Marionette	INFO	Stopped listening on port 38503
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317481468	Marionette	INFO	Listening on port 44303
+1599317481562	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599317652721	Marionette	INFO	Stopped listening on port 44303
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317655781	Marionette	INFO	Listening on port 41653
+1599317655788	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+1599317806870	Marionette	INFO	Stopped listening on port 41653
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317811778	Marionette	INFO	Listening on port 33117
+1599317811838	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599317973136	Marionette	INFO	Stopped listening on port 33117
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599317978125	Marionette	INFO	Listening on port 46301
+1599317978250	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+1599318127349	Marionette	INFO	Stopped listening on port 46301
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318132296	Marionette	INFO	Listening on port 34493
+1599318132354	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+1599318290487	Marionette	INFO	Stopped listening on port 34493
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318295353	Marionette	INFO	Listening on port 42451
+1599318295362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599318485770	Marionette	INFO	Stopped listening on port 42451
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318488832	Marionette	INFO	Listening on port 46419
+1599318488870	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+1599318626355	Marionette	INFO	Stopped listening on port 46419
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318629899	Marionette	INFO	Listening on port 43421
+1599318629933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599318779187	Marionette	INFO	Stopped listening on port 43421
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318784228	Marionette	INFO	Listening on port 34365
+1599318784269	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599318949962	Marionette	INFO	Stopped listening on port 34365
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599318955023	Marionette	INFO	Listening on port 40215
+1599318955068	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599319092007	Marionette	INFO	Stopped listening on port 40215
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319096918	Marionette	INFO	Listening on port 41167
+1599319097002	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1599319244435	Marionette	INFO	Stopped listening on port 41167
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319249894	Marionette	INFO	Listening on port 40445
+1599319249950	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1599319435099	Marionette	INFO	Stopped listening on port 40445
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319439988	Marionette	INFO	Listening on port 44803
+1599319440057	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+1599319611199	Marionette	INFO	Stopped listening on port 44803
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319615599	Marionette	INFO	Listening on port 38131
+1599319615675	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+1599319765632	Marionette	INFO	Stopped listening on port 38131
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319770512	Marionette	INFO	Listening on port 36837
+1599319770588	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599319937217	Marionette	INFO	Stopped listening on port 36837
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599319942174	Marionette	INFO	Listening on port 42123
+1599319942231	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599320078909	Marionette	INFO	Stopped listening on port 42123
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320082411	Marionette	INFO	Listening on port 38205
+1599320082465	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20200831/r20110914/client/qs_click_protection_fy2019.js, line 14: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+1599320218825	Marionette	INFO	Stopped listening on port 38205
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320223726	Marionette	INFO	Listening on port 41953
+1599320223794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+1599320389913	Marionette	INFO	Stopped listening on port 41953
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320394833	Marionette	INFO	Listening on port 38397
+1599320394872	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://cdn.ampproject.org/rtv/012008242301000/v0/amp-analytics-0.1.js, line 133: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+1599320601793	Marionette	INFO	Stopped listening on port 38397
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320605237	Marionette	INFO	Listening on port 39875
+1599320605270	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599320760791	Marionette	INFO	Stopped listening on port 39875
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320765740	Marionette	INFO	Listening on port 41291
+1599320765759	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599320907121	Marionette	INFO	Stopped listening on port 41291
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599320911945	Marionette	INFO	Listening on port 37691
+1599320912009	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599321054968	Marionette	INFO	Stopped listening on port 37691
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321059831	Marionette	INFO	Listening on port 36535
+1599321059875	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.js, line 2: TypeError: window.criteo_pubtag.context.serviceProvider is undefined
+1599321290061	Marionette	INFO	Stopped listening on port 36535
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321295345	Marionette	INFO	Listening on port 44303
+1599321295381	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599321433990	Marionette	INFO	Stopped listening on port 44303
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321437649	Marionette	INFO	Listening on port 42323
+1599321437660	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1599321567913	Marionette	INFO	Stopped listening on port 42323
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321570897	Marionette	INFO	Listening on port 35923
+1599321570972	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599321705633	Marionette	INFO	Stopped listening on port 35923
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321710542	Marionette	INFO	Listening on port 44631
+1599321710611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://maps.google.com/maps/api/js, line 79: Error: Could not load "util".
+1599321882312	Marionette	INFO	Stopped listening on port 44631
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599321887253	Marionette	INFO	Listening on port 40565
+1599321887312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: , line 0: uncaught exception: 7
+1599322035651	Marionette	INFO	Stopped listening on port 40565
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599322040591	Marionette	INFO	Listening on port 33995
+1599322040628	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1599322322076	Marionette	INFO	Stopped listening on port 33995
