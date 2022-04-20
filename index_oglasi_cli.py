@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 import operator
 import pickle
+
 
 def getDriver():
     opts = Options()
     opts.headless = True
     driver = webdriver.Firefox()
     return driver
+
 
 class SearchPage:
     SEARCH_SITE_CAR = "https://www.index.hr/oglasi/osobni-automobili/gid/27"
@@ -36,45 +38,49 @@ class SearchPage:
             link = link[:-1]
         return link
 
+    "/html/body/div[6]/div/div/div[3]/div[4]/ul/li[7]/a"
     XPATH_AD_NUM = "/html/body/div[5]/div/div/div[1]/strong"
-    XPATH_NEXT_SITE_BUTTON = "/html/body/div[6]/div/div/div[3]/div[4]/ul/li[8]/a"
+    CLASS_NAME_PAGE_BUTTONS = "pagination"
     XPATH_CURRENT_SITE_NUM = "/html/body/div[6]/div/div/div[3]/div[4]/ul/li[@class=\"active\"]/a"
     XPATH_AD_HOLDER = "/html/body/div[6]/div/div/div[3]/div[2]/div[@class=\"OglasiRezHolder\"]"
     XPATH_AD_TITLE = "./a/span/span[1]/span[1]"
     XPATH_AD_LOCATION = "./a/span/span[2]/ul/li[1]"
     XPATH_AD_PRICE = "./a/span/span[2]/span/span"
     XPATH_AD_LINK = "./a"
-        
+    ID_CONDITIONS = "didomi-notice-agree-button"
+
     @staticmethod
     def getCurrentPageNum(driver):
         try:
-            return int(driver.find_element_by_xpath(SearchPage.XPATH_CURRENT_SITE_NUM).text)
+            return int(driver.find_element(by=By.XPATH, value=SearchPage.XPATH_CURRENT_SITE_NUM).text)
         except:
             print("Cant parse XPATH_CURRENT_SITE_NUM")
             return 0
-    
+
     @staticmethod
     def goToNextPage(driver):
         try:
-            nextSite = driver.find_element_by_xpath(SearchPage.XPATH_NEXT_SITE_BUTTON).get_attribute("href")
+            pageButtons = driver.find_element(by=By.CLASS_NAME, value=SearchPage.CLASS_NAME_PAGE_BUTTONS)
+            nextSiteList = pageButtons.find_elements(by=By.TAG_NAME, value="a")
+            nextSite = nextSiteList[-2].get_attribute("href")
             driver.get(nextSite)
             return True
         except:
             print("Cant go to next site")
             return False
-    
+
     @staticmethod
     def getTotalAdsNum(driver):
         try:
-            return int(driver.find_element_by_xpath(SearchPage.XPATH_AD_NUM).text.replace(".", ""))
+            return int(driver.find_element(by=By.XPATH, value=SearchPage.XPATH_AD_NUM).text.replace(".", ""))
         except:
-            print("Crant parse XPATH_AD_NUM")
+            print("Cant parse XPATH_AD_NUM")
             return 0
 
     @staticmethod
     def getLinkFromAd(ad):
         try:
-            return ad.find_element_by_xpath(SearchPage.XPATH_AD_LINK).get_attribute("href")
+            return ad.find_element(by=By.XPATH, value=SearchPage.XPATH_AD_LINK).get_attribute("href")
         except:
             print("Cant parse XPATH_AD_LINK")
             return ""
@@ -82,7 +88,7 @@ class SearchPage:
     @staticmethod
     def getAdsFromCurrentPage(driver):
         try:
-            return driver.find_elements_by_xpath(SearchPage.XPATH_AD_HOLDER)
+            return driver.find_elements(by=By.XPATH, value=SearchPage.XPATH_AD_HOLDER)
         except:
             print("Cant parse XPATH_AD_HOLDER")
             return []
@@ -97,6 +103,11 @@ class SearchPage:
                 links.append(link)
         return links
 
+    @staticmethod
+    def acceptConditions(driver):
+        button = driver.find_element(by=By.ID, value=SearchPage.ID_CONDITIONS)
+        button.click()
+
 class DetailPage:
     XPATH_AD_DETAILS_ID = "PrintOglasContent"
     XPATH_AD_DETAILS_DESCRIPTION = "/html/body/div[6]/div/div/div[1]/ul/li[1]/div[2]/div[@class=\"oglas_description\"]"
@@ -108,7 +119,7 @@ class DetailPage:
     @staticmethod
     def getAll(driver):
         try:
-            return driver.find_element_by_id(DetailPage.XPATH_AD_DETAILS_ID).text
+            return driver.find_element(by=By.ID, value=DetailPage.XPATH_AD_DETAILS_ID).text
         except:
             print("Cant get XPATH_AD_DETAILS_ID")
             return ""
@@ -116,7 +127,7 @@ class DetailPage:
     @staticmethod
     def getTables(driver):
         try:
-            return [x.text for x in driver.find_elements_by_class_name(DetailPage.XPATH_AD_DETAILS_TABLES)]
+            return [x.text for x in driver.find_elements(by=By.CLASS_NAME, value=DetailPage.XPATH_AD_DETAILS_TABLES)]
         except:
             print("Cant get XPATH_AD_DETAILS_TABLES")
             return []
@@ -124,11 +135,11 @@ class DetailPage:
     @staticmethod
     def getDescription(driver):
         try:
-            return driver.find_element_by_xpath(DetailPage.XPATH_AD_DETAILS_DESCRIPTION).text
+            return driver.find_element(by=By.XPATH, value=DetailPage.XPATH_AD_DETAILS_DESCRIPTION).text
         except:
             print("Cant get XPATH_AD_DETAILS_DESCRIPTION")
             return ""
-            
+
     @staticmethod
     def getRegistriranDo(tables):
         try:
@@ -141,11 +152,11 @@ class DetailPage:
         except:
             print("Cant parse Registriran do")
             return ""
-    
+
     @staticmethod
     def getTitle(driver):
         try:
-            return driver.find_element_by_xpath(DetailPage.XPATH_AD_DETAILS_TITLE).text
+            return driver.find_element(by=By.XPATH, value=DetailPage.XPATH_AD_DETAILS_TITLE).text
         except:
             print("Cant get XPATH_AD_DETAILS_TITLE")
             return ""
@@ -153,7 +164,7 @@ class DetailPage:
     @staticmethod
     def getLocation(driver):
         try:
-            return driver.find_element_by_xpath(DetailPage.XPATH_AD_DETAILS_LOCATION).text
+            return driver.find_element(by=By.XPATH, value=DetailPage.XPATH_AD_DETAILS_LOCATION).text
         except:
             print("Cant get XPATH_AD_DETAILS_LOCATION")
             return ""
@@ -161,7 +172,7 @@ class DetailPage:
     @staticmethod
     def getPrice(driver):
         try:
-            price = driver.find_element_by_xpath(DetailPage.XPATH_AD_DETAILS_PRICE).text
+            price = driver.find_element(by=By.XPATH, value=DetailPage.XPATH_AD_DETAILS_PRICE).text
             try:
                 return float(price.replace("€", "").replace(".", "").replace(",", "."))
             except:
@@ -171,6 +182,7 @@ class DetailPage:
             print("Cant get XPATH_AD_DETAILS_PRICE")
             return 0.0
 
+
 class File:
     @staticmethod
     def saveAds(ads, filename):
@@ -179,6 +191,7 @@ class File:
     @staticmethod
     def loadAds(filename):
         return pickle.load(open(filename, "rb"))
+
 
 class CarAd():
     link = ""
@@ -193,6 +206,7 @@ class CarAd():
     def __repr__(self):
         return ("%s %s %s %s %s" % ('{:.^10s}'.format(str(self.price)), '{:.^7s}'.format(self.registriranDo), '{:.^40.40s}'.format(self.title), '{:.^10.10s}'.format(self.location), self.link))
 
+
 def getCarAdFromLink(driver, link):
     driver.get(link)
     car = CarAd()
@@ -206,27 +220,28 @@ def getCarAdFromLink(driver, link):
     car.registriranDo = DetailPage.getRegistriranDo(car.tables)
     return car
 
+
 if __name__ == "__main__":
-    print("Stisni Prihvacam rucno!")
     driver = getDriver()
     links = []
 
-    #medimurje
-    driver.get(SearchPage.generateLink(SearchPage.SEARCH_SITE_CAR, elementsNum=100, priceFrom=300, priceTo=1000, location=SearchPage.SEARCH_ADD_LOCATION_MEDIMURSKA))
+    # medimurje
+    driver.get(SearchPage.generateLink("https://www.index.hr/oglasi/osobni-automobili/gid/27?markavozila=11372&modelvozila=11380"))
+    SearchPage.acceptConditions(driver)
     print("Total adds %d" % (SearchPage.getTotalAdsNum(driver)))
     links += SearchPage.getAdLinksFromCurrentPage(driver)
-    while(SearchPage.goToNextPage(driver)):
+    while (SearchPage.goToNextPage(driver)):
         links += SearchPage.getAdLinksFromCurrentPage(driver)
 
-    #varazdinska
-    driver.get(SearchPage.generateLink(SearchPage.SEARCH_SITE_CAR, elementsNum=100, priceFrom=300, priceTo=1000, location=SearchPage.SEARCH_ADD_LOCATION_VARAZDINSKA))
-    print("Total adds %d" % (SearchPage.getTotalAdsNum(driver)))
-    links += SearchPage.getAdLinksFromCurrentPage(driver)
-    while(SearchPage.goToNextPage(driver)):
-        links += SearchPage.getAdLinksFromCurrentPage(driver)
+    # varazdinska
+    # driver.get(SearchPage.generateLink(SearchPage.SEARCH_SITE_CAR, elementsNum=100, priceFrom=300, priceTo=1000, location=SearchPage.SEARCH_ADD_LOCATION_VARAZDINSKA))
+    # print("Total adds %d" % (SearchPage.getTotalAdsNum(driver)))
+    # links += SearchPage.getAdLinksFromCurrentPage(driver)
+    # while(SearchPage.goToNextPage(driver)):
+    #    links += SearchPage.getAdLinksFromCurrentPage(driver)
 
     cars = []
-    for e,link in enumerate(links):
+    for e, link in enumerate(links):
         print("%d/%d" % (e, len(links)))
         car = getCarAdFromLink(driver, link)
         cars.append(car)
